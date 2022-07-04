@@ -1,0 +1,14 @@
+C:\Users\sourav.kumar\Desktop\CGDOCSPROJECT\CGDOCSPROJECT\bin\Debug\netcoreapp2.1\CGDOCSPROJECT.deps.json
+C:\Users\sourav.kumar\Desktop\CGDOCSPROJECT\CGDOCSPROJECT\bin\Debug\netcoreapp2.1\CGDOCSPROJECT.runtimeconfig.json
+C:\Users\sourav.kumar\Desktop\CGDOCSPROJECT\CGDOCSPROJECT\bin\Debug\netcoreapp2.1\CGDOCSPROJECT.runtimeconfig.dev.json
+C:\Users\sourav.kumar\Desktop\CGDOCSPROJECT\CGDOCSPROJECT\bin\Debug\netcoreapp2.1\CGDOCSPROJECT.dll
+C:\Users\sourav.kumar\Desktop\CGDOCSPROJECT\CGDOCSPROJECT\bin\Debug\netcoreapp2.1\CGDOCSPROJECT.pdb
+C:\Users\sourav.kumar\Desktop\CGDOCSPROJECT\CGDOCSPROJECT\obj\Debug\netcoreapp2.1\CGDOCSPROJECT.csprojAssemblyReference.cache
+C:\Users\sourav.kumar\Desktop\CGDOCSPROJECT\CGDOCSPROJECT\obj\Debug\netcoreapp2.1\CGDOCSPROJECT.csproj.CoreCompileInputs.cache
+C:\Users\sourav.kumar\Desktop\CGDOCSPROJECT\CGDOCSPROJECT\obj\Debug\netcoreapp2.1\CGDOCSPROJECT.RazorAssemblyInfo.cache
+C:\Users\sourav.kumar\Desktop\CGDOCSPROJECT\CGDOCSPROJECT\obj\Debug\netcoreapp2.1\CGDOCSPROJECT.RazorAssemblyInfo.cs
+C:\Users\sourav.kumar\Desktop\CGDOCSPROJECT\CGDOCSPROJECT\obj\Debug\netcoreapp2.1\CGDOCSPROJECT.AssemblyInfoInputs.cache
+C:\Users\sourav.kumar\Desktop\CGDOCSPROJECT\CGDOCSPROJECT\obj\Debug\netcoreapp2.1\CGDOCSPROJECT.AssemblyInfo.cs
+C:\Users\sourav.kumar\Desktop\CGDOCSPROJECT\CGDOCSPROJECT\obj\Debug\netcoreapp2.1\CGDOCSPROJECT.RazorTargetAssemblyInfo.cache
+C:\Users\sourav.kumar\Desktop\CGDOCSPROJECT\CGDOCSPROJECT\obj\Debug\netcoreapp2.1\CGDOCSPROJECT.dll
+C:\Users\sourav.kumar\Desktop\CGDOCSPROJECT\CGDOCSPROJECT\obj\Debug\netcoreapp2.1\CGDOCSPROJECT.pdb
