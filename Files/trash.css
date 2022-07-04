@@ -1,0 +1,258 @@
+
+@media  (min-width: 480px){
+
+    #create article{
+      height:80px;
+      width: 450px;
+      border-radius: 15px;
+      border:2.5px solid rgb(255, 255, 255);
+      padding: 15px 5px 15px 1px;
+      font-size: 5px;
+      margin:10px;
+      background-color: #e4e5f1 ;
+      font-size: 17px;
+      }
+  
+  #create{
+    margin-top: 60px;
+  
+    margin-left:10px;
+  
+  background-color: transparent;
+  padding: 10px;
+  }.filei{
+    top:0px;
+  }
+  .trash{
+    left:-640px;
+    top:-15px;
+    
+  }
+  .download{
+    left:300px;
+    top:20px;
+   
+  }
+  .documentName{
+    left:70px;
+    font-size: 25px;
+  }
+  
+  
+  }
+  
+  
+  @media  (min-width: 800px){
+  
+   
+    #create article{
+      height:80px;
+      width: 480px;
+      border-radius: 15px;
+      border:2.5px solid rgb(255, 255, 255);
+      padding: 15px 15px;
+      margin:10px;
+      background-color: #e4e5f1 ;
+      font-size: 17px;
+      }
+  
+  #create{
+    margin-top: 60px;
+    margin-left:10px;
+  
+  background-color: transparent;
+  padding: 10px;
+  }.filei{
+    top:0px;
+  }
+  .trash{
+    left:-640px;
+    top:-15px;
+    
+  }
+  .download{
+    left:300px;
+    top:25px;
+   
+  }
+  .documentName{
+    left:100px;
+    font-size: 30px;
+  }
+  
+  }
+  
+  
+  @media (min-width: 950px){
+    
+  
+    #create article{
+      height:100px;
+      width: 650px;
+      border-radius: 15px;
+      border:2.5px solid rgb(255, 255, 255);
+      padding: 10px 10px 10px 10px;
+      margin:10px;
+      margin-left:5px;
+      background-color: #e4e5f1 ;
+      font-size: 17px;
+      }
+    
+    #create{
+      margin-top: 60px;
+  
+    padding: 10px;
+    }
+    .filei{
+      top:0px;
+    }
+    .trash{
+      left:-460px;
+      top:-15px;
+      
+    }
+    .download{
+      left:480px;
+      top:40px;
+     
+    }
+    .documentName{
+      left:200px;
+    }
+    }
+  
+    @media (min-width: 1150px){
+  
+      #create article{
+        height:100px;
+        width: 820px;
+        border-radius: 15px;
+        border:2.5px solid rgb(255, 255, 255);
+        padding: 20px 25px 10px 2px;
+        margin:15px;
+        background-color: #e4e5f1 ;
+        font-size: 17px;
+        }
+       
+      #create{
+        
+        margin-top: 60px;
+  
+      background-color: transparent;
+      padding: 10px 5px 10px 1px;
+      }.filei{
+        top:0px;
+      }
+      .trash{
+        left:-260px;
+        top:-15px;
+        
+      }
+      .download{
+        left:680px;
+        top:40px;
+       
+      }
+      .documentName{
+        left:300px;
+      }
+    }
+    @media (min-width: 1450px){
+      #create article{
+        height:120px;
+        width: 1150px;
+        border-radius: 15px;
+        border:2.5px solid rgb(255, 255, 255);
+        padding: 20px 25px 10px 2px;
+        margin:10px;
+        background-color: #e4e5f1 ;
+        font-size: 17px;
+        }
+    
+      #create{
+        
+        margin-top: 60px;
+  
+      background-color: transparent;
+      padding: 10px 5px 10px 1px;
+      }
+      
+      .filei{
+        top:0px;
+      }
+      .trash{
+        left:70px;
+        
+      }
+      .download{
+        left:1010px;
+        top:50px;
+       
+      }
+      .documentName{
+        left:400px;
+      }
+    }
+  
+    @media (min-width: 1660px){
+      #create article{
+        height:120px;
+        width: 1300px;
+        border-radius: 15px;
+        border:2.5px solid rgb(255, 255, 255);
+        padding: 20px 25px 10px 2px;
+        margin:10px;
+        background-color: #e4e5f1 ;
+        font-size: 17px;
+        }
+        .filei{
+          top:0px;
+        }
+        .trash{
+          left:220px;
+          
+        }
+        .download{
+          left:1160px;
+          top:50px;
+         
+        }
+      #create{
+        
+        margin-top: 60px;
+    
+      background-color: transparent;
+      padding: 10px 5px 10px 1px;
+      }
+    }
+    
+    @media (min-width: 1850px){
+      #create article{
+        height:120px;
+        width:1540px;
+        border-radius: 15px;
+        border:2.5px solid rgb(255, 255, 255);
+        padding: 20px 25px 10px 2px;
+        margin:10px;
+        background-color: #e4e5f1 ;
+        font-size: 17px;
+        }
+    .filei{
+      top:0px;
+    }
+    .trash{
+      left:450px;
+      
+    }
+    .download{
+      left:1390px;
+      top:50px;
+     
+    }
+  
+      #create{
+        margin-top: 60px;
+      background-color: transparent;
+      padding: 10px 5px 10px 1px;
+      }
+    }

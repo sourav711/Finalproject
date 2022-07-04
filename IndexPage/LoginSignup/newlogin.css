@@ -1,0 +1,217 @@
+
+
+.border-md {
+    border-width: 2px;
+}
+
+.btn-facebook {
+    background: #405D9D;
+    border: none;
+}
+
+.btn-facebook:hover, .btn-facebook:focus {
+    background: #314879;
+}
+
+.btn-twitter {
+    background: #42AEEC;
+    border: none;
+}
+
+.btn-twitter:hover, .btn-twitter:focus {
+    background: #1799e4;
+}
+
+
+
+
+body {
+    min-height: 100vh;
+
+}
+
+.form-control:not(select) {
+    padding: 1.5rem 0.5rem;
+}
+
+select.form-control {
+    height: 20px;
+    
+}
+
+.form-control::placeholder {
+    color: #ccc;
+    font-weight: bold;
+    font-size: 0.9rem;
+}
+.form-control:focus {
+    box-shadow: none;
+}
+
+
+
+    
+
+
+/* NAVBAR */
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+#logo 
+{
+    height: 100px;
+}
+.navbar
+{
+    
+    display: flex;
+     align-items: center;
+     background-color:  #8db2c6; 
+    
+    
+}
+#title
+{
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav
+{
+    padding-left: 100px;
+    list-style: none;
+    display: flex;
+    font-style: italic;
+    font-size: 10px;
+    
+}
+#feat 
+{
+    padding-top: 15px;
+    padding-right: 60px;
+}
+#home
+{
+    padding-top: 15px;
+     padding-right: 60px; 
+      
+}
+#btn1
+{
+    height: 50px;
+   width: 120px;
+   font-size: 20px;
+   background: #8db2c6;
+   border: none;
+   border-radius: 25px;
+   cursor: pointer;
+   
+   
+}
+#btn1 :hover
+{
+  color: yellow;
+}
+#spanbtn
+{
+    padding-right: 50px;
+}
+
+
+.main
+{
+    display:  flex;
+     
+    
+
+}
+
+.img
+{
+   height: 400px;
+   position: relative;
+   left: 50px;
+}
+ #tag1
+{
+font-size: 30px;
+
+ padding-left: 30px; 
+ position: relative;
+left: 25px;
+top: 100px;
+font-style: italic;
+
+
+}
+#tag2
+{
+    
+  font-size: 30px;
+  position: relative;
+  top: 150px;
+  right: 20px; 
+
+    
+}
+#tag3
+{
+     font-size: 30px;
+    position: relative;
+    top: 20px;
+    right: 50px;
+    font-style: italic; 
+}
+
+#pag1
+{
+    font-size: 20px;
+    /* padding-top: 50px;
+    padding-left: 30px; */
+    
+}
+#pag2
+{
+    font-size: 20px;
+    padding-top: 10px;
+    padding-left: 45px;
+} 
+/* 
+@media only screen and (min-wid) {
+    body {
+      background-color: lightblue;
+    }
+  } */
+
+
+  @media only screen and (max-width: 600px) {
+
+    .navbar{
+        height: 20%;
+        flex-direction: column;
+
+        
+    }
+    
+
+}
+  
+/*  distance betwwen navbar  */
+.sidepage
+{
+    padding-top: 7%;
+}
+.hw
+{
+    height: 70%;
+}
+#message
+{
+    font-size: 14px;
+    margin: 15px 0;
+    display: inline-block;
+    color: black;
+    padding: 5px 20px;
+}
